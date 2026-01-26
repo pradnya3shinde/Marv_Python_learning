@@ -1,6 +1,6 @@
 
 def Factors(no):
-    for i in range(1, no + 1):
+    for i in range(1, no):
         if no % i == 0:
          print(i)
 
